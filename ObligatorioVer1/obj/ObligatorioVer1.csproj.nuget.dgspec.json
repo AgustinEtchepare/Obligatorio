@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agust\\source\\repos\\ObligatorioVer1\\ObligatorioVer1\\ObligatorioVer1.csproj": {}
+    "C:\\Users\\agust\\Documents\\Repositorios\\Obligatorio\\ObligatorioVer1\\ObligatorioVer1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agust\\source\\repos\\ObligatorioVer1\\ObligatorioVer1\\ObligatorioVer1.csproj": {
+    "C:\\Users\\agust\\Documents\\Repositorios\\Obligatorio\\ObligatorioVer1\\ObligatorioVer1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agust\\source\\repos\\ObligatorioVer1\\ObligatorioVer1\\ObligatorioVer1.csproj",
+        "projectUniqueName": "C:\\Users\\agust\\Documents\\Repositorios\\Obligatorio\\ObligatorioVer1\\ObligatorioVer1.csproj",
         "projectName": "ObligatorioVer1",
-        "projectPath": "C:\\Users\\agust\\source\\repos\\ObligatorioVer1\\ObligatorioVer1\\ObligatorioVer1.csproj",
+        "projectPath": "C:\\Users\\agust\\Documents\\Repositorios\\Obligatorio\\ObligatorioVer1\\ObligatorioVer1.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agust\\source\\repos\\ObligatorioVer1\\ObligatorioVer1\\obj\\",
+        "outputPath": "C:\\Users\\agust\\Documents\\Repositorios\\Obligatorio\\ObligatorioVer1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
